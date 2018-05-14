@@ -9,6 +9,16 @@
 
 ## Notes
 
+* Benefits of branch workflow
+  - not all committing to same branch
+  - SAFELY work on the same codebase
+  - allows you to review code beore committing changes (specifically to master)
+  - allows you to break up the work ito smaller chunks
+    * Feature
+    * Task
+    * ~~Release~~
+  - Allows us to assign work easier
+
 ## Resources
 
 - [Understanding GitHub Workflow](https://guides.github.com/introduction/flow/)
