@@ -1,4 +1,5 @@
 testing to merge on gitHub
 
 
-messing with master
+merge conflict branch merged to master 
+
