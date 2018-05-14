@@ -3,8 +3,10 @@
 ## Objectives
 
 - Explain the benefits of branch workflow
-- Create feature branches
-- Merge feature branches
+- Create branches
+  - git checkout -b branch-name
+  - git checkout master
+- Merge branches
 - Resolve Merge Conflicts
 
 ## Notes
